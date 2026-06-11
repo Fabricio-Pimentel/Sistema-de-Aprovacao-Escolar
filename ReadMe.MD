@@ -200,5 +200,4 @@ git push -u origin main
 - **docs**: altera a documentação
 - **style**: ajusta formatação, indentação ou estilo do código
 - **test**: cria ou modifica testes
-- **chore**: tarefas de manutenção, configuração ou dependências
-
+- **chore**: tarefas de manutenção, configuração ou dependênciasgit 
