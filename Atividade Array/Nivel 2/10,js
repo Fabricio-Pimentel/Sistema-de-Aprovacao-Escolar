@@ -1,0 +1,8 @@
+let produtos = ["Pastel", "Suco", "Coxinha", "Chocolate"];
+console. log (produtos)
+console.log('Vamos fazer umas mudanças...');
+produtos.push('pão de queijo');
+produtos.shift(produtos)
+produtos[2] = ('pão de queijo')
+console.log (produtos)
+console.log ('A lista tem') + console.log(produtos.length) + console.log ('produtos.')
